@@ -1,5 +1,5 @@
 
-Hi, Welcome. I'm a self-taught Android developer from India 🇮🇳. Trying to explore new things. I can't be cutting edge updated with the latest tech updates but I try to learn the new things and contribut it back to community whenever possible.
+Hi👋, Welcome🙂. I'm a self-taught Android developer from India 🇮🇳. Trying to explore new things. I can't be cutting edge updated with the latest tech updates but I try to learn the new things and contribut it back to community whenever possible. I will love if I would be helpful to anyone. 🙂
 
 ![Rumit's github stats](https://github-readme-stats.vercel.app/api?username=RumitPatel&show_icons=true&count_private=true&show_icons=true)
 
