@@ -2,6 +2,7 @@
 Hi👋, Welcome🙂. I'm a self-taught Android developer from India 🇮🇳. Trying to explore new things. I can't be cutting edge updated with the latest tech updates but I try to learn the new things and contribut it back to community whenever possible. I will love if I would be helpful to anyone. 🙂
 
 <img src="https://www.gstatic.com/devrel-devsite/prod/v0492b3db79b8927fe2347ea2dc87c471b22f173331622ffd10334837d43ea37f/developers/images/touchicon-180.png" width =20 height = 20> <b><a href="https://developers.google.com/profile/u/rumit">My Google Developer Profile</a></b>
+<hr>
 
 🛠 &nbsp;Tech Stack
 - 💻 &nbsp;
@@ -20,6 +21,8 @@ Hi👋, Welcome🙂. I'm a self-taught Android developer from India 🇮🇳. Tr
   ![Intellij](https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
 - 🛒 &nbsp;
   ![Google Play Store](https://img.shields.io/badge/Google_Play-414141?style=for-the-badge&logo=google-play&logoColor=white)
+  
+<hr>
 
 ![Rumit's github stats](https://github-readme-stats.vercel.app/api?username=RumitPatel&show_icons=true&count_private=true&show_icons=true)
 
