@@ -1,6 +1,10 @@
 
 Hi👋, Welcome🙂. I'm a self-taught Android developer from India 🇮🇳. Trying to explore new things. I can't be cutting edge updated with the latest tech updates but I try to learn the new things and contribut it back to community whenever possible. I will love if I would be helpful to anyone. 🙂
 
+👩‍💻 Being a Android enthusiast, I develop Android apps in Kotlin 
+<img src ="https://icon2.cleanpng.com/20180712/jwy/kisspng-android-software-development-kotlin-mobile-app-dev-android-programming-5b47975c5aa9f1.4404467115314184603714.jpg" width=20 height=20>.
+<br>
+
 <img src="https://www.gstatic.com/devrel-devsite/prod/v0492b3db79b8927fe2347ea2dc87c471b22f173331622ffd10334837d43ea37f/developers/images/touchicon-180.png" width =20 height = 20> <b><a href="https://developers.google.com/profile/u/rumit">My Google Developer Profile</a></b>
 <hr>
 
