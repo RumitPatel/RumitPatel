@@ -1,5 +1,6 @@
+<h1 align="center">Hey, I'm Rumit. <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30px"></h1> 
 
-Hi👋, Welcome🙂. I'm a self-taught Android developer from India 🇮🇳. Trying to explore new things. I can't be cutting edge updated with the latest tech updates but I try to learn the new things and contribut it back to community whenever possible. I will love if I would be helpful to anyone. 🙂
+I'm a self-taught Android developer from India 🇮🇳. Trying to explore new things. I can't be cutting edge updated with the latest tech updates but I try to learn the new things and contribut it back to community whenever possible. I will love if I would be helpful to anyone. 🙂
 
 👩‍💻 Being a Android enthusiast, I develop Android apps in Kotlin 
 <img src ="https://icon2.cleanpng.com/20180712/jwy/kisspng-android-software-development-kotlin-mobile-app-dev-android-programming-5b47975c5aa9f1.4404467115314184603714.jpg" width=20 height=20>.
