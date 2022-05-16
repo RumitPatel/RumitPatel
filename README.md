@@ -7,6 +7,9 @@ I'm a self-taught Android developer from India 🇮🇳. Trying to explore new t
 <br>
 
 <img src="https://www.gstatic.com/devrel-devsite/prod/v0492b3db79b8927fe2347ea2dc87c471b22f173331622ffd10334837d43ea37f/developers/images/touchicon-180.png" width =20 height = 20> <b><a href="https://developers.google.com/profile/u/rumit">My Google Developer Profile</a></b>
+
+<a href="https://stackoverflow.com/users/2289835/rumit-patel"><img src="https://stackoverflow.com/users/flair/2289835.png" width="208" height="58" alt="profile for Rumit Patel at Stack Overflow, Q&amp;A for professional and enthusiast programmers" title="profile for Rumit Patel at Stack Overflow, Q&amp;A for professional and enthusiast programmers"></a>
+
 <hr>
 
 🛠 &nbsp;Tech Stack
